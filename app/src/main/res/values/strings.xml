@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoIntroFragment</string>
+
+    <string name="btn_frag1">Demo</string>
+
+    <string name="title_demo_fragment">Demo</string>
+    <string name="text_demo">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis, metus ac accumsan consectetur, lacus ipsum tincidunt neque, ut imperdiet purus quam nec nisi. Nam commodo lacus diam, convallis varius nibh pellentesque eu. Sed varius nisi eu arcu vehicula venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed vitae vestibulum tortor. Nullam malesuada sollicitudin risus, in euismod felis accumsan ut. Donec sed nulla eget ante lacinia auctor. Maecenas scelerisque orci in rhoncus maximus. Ut at ultricies magna. Duis elementum ultrices volutpat. Curabitur vestibulum pretium arcu ac posuere. Integer accumsan sapien arcu. Aenean feugiat velit massa, nec faucibus purus iaculis non. Maecenas a velit lorem.</string>
+
+    <string name="date_pattern">dd/MM/YYYY</string>
+    <string name="text_date_display">La date encodée est : %s</string>
+    <string name="btn_frag2">Date</string>
+    <string name="btn_frag3">Cb M</string>
+    <string name="btn_frag4">Cb A</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_big_button">Click here !</string>
+</resources>
